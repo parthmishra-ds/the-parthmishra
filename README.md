@@ -2,9 +2,9 @@
 
 # Hi, I'm Parth Mishra 👋
 
-    Currently working on Computer Vision Under Image Recongnision Under Dark Light
 💻 Building real-world projects using Python  
-🚀 Interested in Data Science & problem solving  
+🚀 Interested in Data Science & problem solving
+    Currently working on Computer Vision In Image Recongnision Under Dark Light
 
 ---
 
