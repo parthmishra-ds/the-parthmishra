@@ -2,7 +2,6 @@
 
 # Hi, I'm Parth Mishra 👋
 
-🎓 BCA Student  
 💻 Building real-world projects using Python  
 🚀 Interested in Data Science & problem solving  
 
